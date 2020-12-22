@@ -281,8 +281,9 @@ window.onload = function () {
 };
 
 function reveal() {
+  document.querySelector('.merrywrap').style.backgroundImage = "none";
   document.querySelector('.merrywrap').style.backgroundColor = 'transparent';
-
+  
   loop();
 
   var w, h;
