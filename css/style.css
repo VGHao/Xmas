@@ -70,6 +70,7 @@ div#sea {
   bottom: 0px;
   top: 0px;
   background-color: #659DBD;
+  background-image: url('https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20181219152239/Christmas-Tree-Near-Fireplace-at-Home.jpg');
   transition: background-color .5s ease;
 }
 
