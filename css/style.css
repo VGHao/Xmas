@@ -71,6 +71,9 @@ div#sea {
   top: 0px;
   background-color: #659DBD;
   background-image: url('https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20181219152239/Christmas-Tree-Near-Fireplace-at-Home.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   transition: background-color .5s ease;
 }
 
@@ -80,7 +83,7 @@ div#sea {
   height: 200px;
   left: 50%;
   margin-left: -150px;
-  bottom: 40px;
+  bottom: 60px;
   z-index: 10;
 }
 .giftbox > div {
@@ -454,7 +457,7 @@ div#sea {
   }
 
   .moon {
-    right: 230px;
+    right: 250px;
   }
 }
 
